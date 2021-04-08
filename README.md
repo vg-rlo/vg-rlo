@@ -8,8 +8,10 @@ My major is electronics engineering, and i have been studying DL/ML since 2020. 
 
 
 ## 📫 How to reach me: ...
-#### Blog: 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vg-rlo.tistory.com/)](https://vg-rlo.tistory.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munorean@gmail.com)](mailto:munorean@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://vg-rlo.tistory.com/)](https://vg-rlo.tistory.com/)
+
+
 
 <!--
 **vg-rlo/vg-rlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +29,4 @@ Here are some ideas to get you started:
 -->
 
 
+v
