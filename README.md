@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am SeongEun, Mun 👋
 
 <!--
 **vg-rlo/vg-rlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
