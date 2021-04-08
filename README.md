@@ -13,7 +13,7 @@ My major is electronics engineering, and i have been studying DL/ML since 2020. 
 * Main: **Python**
 * C, Verilog, Java(Android), Matlab, Assembly
     
-### My Github stats
+### 🛠️ My Github stats
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vg-rlo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me: ...
