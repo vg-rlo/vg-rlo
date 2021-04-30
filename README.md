@@ -6,7 +6,7 @@ My major is electronics engineering, and i have been studying DL/ML since 2020. 
 ### My Goal in 2021 
 * To be a ML/DL Research Engineer
 * 1 day 1 commit!(2021.04.05 ~ )
-  - 04.24 failed... :(
+  - 04.24, 04.29 failed... :(
  
 ### 🌱 I’m currently learning ... 
 * CV using Deeplearning models
