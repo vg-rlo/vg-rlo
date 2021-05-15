@@ -3,11 +3,6 @@
 ## 👋 Hi! I am SeongEun, Mun.    
 My major is electronics engineering, and i have been studying DL/ML since 2020. I have project experience using Python. I am very interested in DL/ML. I am especially interested in NLP, Recommendation System and Time-series data prediction.    
 
-### My Goal in 2021 
-* To be a ML/DL Research Engineer
-* 1 day 1 commit!(2021.04.05 ~ )
-  - 04.24, 04.29 failed... :(
- 
 ### 🌱 I’m currently learning ... 
 * CV using Deeplearning models
 * NLP
